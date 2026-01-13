@@ -1,0 +1,7 @@
+{
+  "name": "KHUSHI Abacus AI Guru",
+  "description": "An interactive AI-powered Abacus (Soroban) learning platform for mastering mental arithmetic with personalized feedback and step-by-step guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
